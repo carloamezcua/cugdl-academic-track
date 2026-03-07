@@ -4,7 +4,7 @@
 ![Lenguaje](https://img.shields.io/badge/Lenguaje-Python-yellow)
 ![Notebooks](https://img.shields.io/badge/Formato-Jupyter%20Notebooks-orange)
 
-Repositorio de trabajo académico para las materias cursadas en el **Centro Universitario de la Gran Década de Liderazgo (CUGDL)**. Aquí se concentran proyectos, notebooks y material de estudio organizado por materia.
+Repositorio de trabajo académico para las materias cursadas en el **Centro Universitario de Guadalajara (CUGDL)**. Aquí se concentran proyectos, notebooks y material de estudio organizado por materia.
 
 ## Materias
 
@@ -62,7 +62,7 @@ cugdl-academic-track/
 
 ## English Summary
 
-Academic coursework repository for subjects taken at **CUGDL (Centro Universitario de la Gran Década de Liderazgo)**. Contains projects, notebooks, and study materials organized by subject:
+Academic coursework repository for subjects taken at **CUGDL (Centro Universitario de Guadalajara)**. Contains projects, notebooks, and study materials organized by subject:
 
 - **AI Systems Architecture** — Introductory exercises in Python
 - **Machine Learning & Data Processing** — Linear regression, Titanic classification (with datasets)
